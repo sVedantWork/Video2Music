@@ -1,0 +1,4 @@
+The link to obtain pre-trained model weights for emotion classification are provided below:
+{"ResNext_101" : "https://drive.google.com/file/d/1j8PmX1Qg6qsm02xPZFMw9EisDgv64EA5/view?usp=share_link"},
+{"ResNext_50" : "https://drive.google.com/file/d/1pphkj2vf5DMn8ceXSQmen8FamNpkeGri/view?usp=share_link"},
+{"VGG_19" : "https://drive.google.com/file/d/1JLNI5Gsw9Qh3rCqVC5sNmS2Jr9VSgsRB/view?usp=share_link"}
